@@ -1,0 +1,17 @@
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks Data App.vbprojAssemblyReference.cache
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Interop.SldWorks.dll
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Interop.SwCommands.dll
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Interop.SwConst.dll
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks Data App.vbproj.ResolveComReference.cache
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks_Data_App.Form1.resources
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks_Data_App.Resources.resources
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks Data App.vbproj.GenerateResource.cache
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks Data App.vbproj.CoreCompileInputs.cache
+E:\Tandemloop\Project\3d-local\Solidworks Data App\bin\Debug\Solidworks Data App.exe.config
+E:\Tandemloop\Project\3d-local\Solidworks Data App\bin\Debug\Solidworks Data App.exe
+E:\Tandemloop\Project\3d-local\Solidworks Data App\bin\Debug\Solidworks Data App.pdb
+E:\Tandemloop\Project\3d-local\Solidworks Data App\bin\Debug\Solidworks Data App.xml
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks Data App.exe
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks Data App.xml
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Solidworks Data App.pdb
+E:\Tandemloop\Project\3d-local\Solidworks Data App\obj\Debug\Interop.SWPublished.dll
